@@ -19,10 +19,23 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            As a front-end developer with a year of experience, I thrive on crafting immersive digital experiences through the fusion of HTML, CSS, and JavaScript. With a passion for React.js and a keen eye for design, I specialize in building dynamic and responsive web applications that leave a lasting impression. My journey in web development is driven by a relentless pursuit of innovation and excellence, shaping the future of user-centric interfaces, one line of code at a time.
+              I am Srikanth Gunalapuri, a passionate Front-End Developer with
+              three years of experience in crafting dynamic, user-friendly, and
+              visually appealing web applications. I specialize in React.js,
+              JavaScript (ES6+), HTML5, CSS3, Redux, and UI frameworks like
+              Material-UI and Bootstrap. <br />
               <br />
-           
-              </p>
+              With a keen eye for design and performance optimization, I focus
+              on building responsive and scalable applications that enhance user
+              experience. My expertise in API integration, state management, and
+              front-end architecture allows me to create seamless digital
+              experiences. <br />
+              <br />I thrive in collaborative environments, continuously
+              learning and pushing boundaries to develop innovative solutions.
+              My goal is to craft intuitive and interactive user interfaces that
+              make a lasting impact.
+              <br />
+            </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
