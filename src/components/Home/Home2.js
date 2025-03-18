@@ -19,9 +19,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Srikanth Gunalapuri, a passionate Front-End Developer with
-              three years of experience in crafting dynamic, user-friendly, and
-              visually appealing web applications. I specialize in React.js,
+              I am <span className="purple">Srikanth Gunalapuri</span>, a
+              passionate <span className="purple">Front-End Developer</span>{" "}
+              with 1.9 years of experience in crafting dynamic, user-friendly,
+              and visually appealing web applications. I specialize in React.js,
               JavaScript (ES6+), HTML5, CSS3, Redux, and UI frameworks like
               Material-UI and Bootstrap. <br />
               <br />

@@ -1,0 +1,96 @@
+{
+  "name": "Srikanth Gunalapuri",
+  "contact": {
+    "phone": "+91-6281448790",
+    "email": "gunalapurisrikanth@gmail.com"
+  },
+  "objective": "Front-End Developer with 3 years of experience in designing and developing responsive, user-friendly web applications. Proficient in HTML5, CSS3, JavaScript, React.js, React Hooks, Redux, Bootstrap, and Material-UI, with expertise in API integration and state management.",
+  "experience": [
+    {
+      "role": "Front-End Developer",
+      "duration": "3 years",
+      "company": "Metrolabs Services Pvt. Ltd.",
+      "responsibilities": [
+        "Developed and maintained responsive, user-friendly interfaces using React.js, React Hooks, and Redux.",
+        "Increased user engagement by 30% through dynamic and interactive front-end features.",
+        "Created reusable components and scalable UI libraries, reducing future development time by 40%.",
+        "Optimized application performance by 50% through efficient DOM manipulation and lazy loading.",
+        "Integrated APIs efficiently using Axios and improved data handling performance.",
+        "Ensured cross-browser compatibility and responsive design with CSS3, Flexbox, and Grid."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Com",
+    "institution": "Nagarjuna Government Degree College, Nalgonda",
+    "year": "2017-2020",
+    "cgpa": 7.7
+  },
+  "skills": {
+    "technologies": ["HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap"],
+    "frontend_frameworks": [
+      "React.js",
+      "React Hooks",
+      "Redux",
+      "Material-UI",
+      "ANT Design"
+    ],
+    "state_management": ["Redux Toolkit", "Context API"],
+    "api_handling": ["Axios", "Fetch API"],
+    "tools": ["Git", "GitHub", "VS Code"],
+    "other_competencies": [
+      "Responsive Web Design",
+      "Front-end Architecture",
+      "Webpack",
+      "Scalability",
+      "Deployment"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Arsha Tuitions",
+      "role": "Front-End Developer",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "React Hooks",
+        "Redux",
+        "Bootstrap 5",
+        "ANT Design",
+        "Material-UI",
+        "Axios"
+      ],
+      "summary": "An online platform designed to provide educational services and resources for students, teachers, and administrators.",
+      "responsibilities": [
+        "Developed a responsive UI using React.js, React Hooks, and Redux.",
+        "Styled components using Bootstrap 5, ANT Design, and Material-UI.",
+        "Implemented React Router for seamless navigation.",
+        "Applied JavaScript validations for enhanced form security.",
+        "Integrated REST APIs using Axios to fetch and display dynamic data."
+      ]
+    },
+    {
+      "title": "Vedarushi",
+      "role": "Front-End Developer",
+      "technologies": [
+        "React.js",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap 5",
+        "ANT Design",
+        "Material-UI"
+      ],
+      "summary": "A comprehensive spiritual service platform designed to simplify the booking of Poojas, Vratams, and personalized birthday wishes.",
+      "responsibilities": [
+        "Designed and developed dynamic login and signup pages with an intuitive UI/UX.",
+        "Created and optimized reusable UI components.",
+        "Integrated RESTful API calls using Axios and Fetch.",
+        "Implemented front-end optimization techniques to enhance performance.",
+        "Ensured cross-browser compatibility and mobile responsiveness."
+      ]
+    }
+  ]
+}

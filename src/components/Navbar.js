@@ -38,7 +38,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand className="d-flex">
           <h2 className="purple">GS</h2>
         </Navbar.Brand>
         <Navbar.Toggle
@@ -92,7 +92,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-        
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/srikanthgunalapuri"

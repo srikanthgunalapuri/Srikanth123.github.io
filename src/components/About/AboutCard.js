@@ -14,9 +14,9 @@ function AboutCard() {
             <span className="purple">Srikanth Gunalapuri </span> from Hyderabad,{" "}
             India. <br />I am currently working as a Front-End Developer at
             <span className="purple"> Metrolabs Services Pvt. Ltd.</span>,
-            Hyderabad, since March 2022.
+            Hyderabad, since july 2023.
             <br />
-            <br />I have 3 years of experience in designing and developing
+            <br />I have 1.9 years of experience in designing and developing
             responsive, user-friendly web applications using React.js, Redux,
             JavaScript, HTML5, CSS3, and modern UI frameworks.
             <br />
